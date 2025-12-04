@@ -1,0 +1,39 @@
+carnivore-ai-coach/
+│
+├── backend-python/
+│   ├── app.py
+│   ├── chatbot.py
+│   ├── semantic_kernel_config.py
+│   ├── image_generator.py
+│   ├── nutrient_advisor.py
+│   ├── requirements.txt
+│   └── README.md
+│
+├── backend-csharp/
+│   ├── CarnivoreAI/
+│   ├── Program.cs
+│   ├── ChatbotService.cs
+│   ├── CarnivoreAI.csproj
+│   └── README.md
+│
+├── azure-resources/
+│   ├── arm-template.json
+│   ├── bicep-template.bicep
+│   └── README.md
+│
+├── frontend-web/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── instagram-bot/
+│   ├── instagram_handler.py
+│   ├── content_scheduler.py
+│   └── requirements.txt
+│
+├── docker-compose.yml
+├── .github/
+│   └── workflows/
+│
+├── README.md
+└── .env.example
